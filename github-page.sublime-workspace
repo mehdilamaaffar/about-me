@@ -1,0 +1,2299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"head_name"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"my",
+				"my_image"
+			],
+			[
+				"class",
+				"class	Attr"
+			],
+			[
+				"sear",
+				"search_text"
+			],
+			[
+				"search",
+				"search_button"
+			],
+			[
+				"out",
+				"output_json	CI - output Json"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"isset",
+				"isset"
+			],
+			[
+				"validation",
+				"validation_errors"
+			],
+			[
+				"throw",
+				"thrownError"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"lis",
+				"list-group"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"comment_",
+				"comment_content"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"comment",
+				"comment_id"
+			],
+			[
+				"curre",
+				"current_tag_name"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"load_",
+				"load_helper	CI - Load Helper File"
+			],
+			[
+				"tag",
+				"tag_exist"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"true",
+				"TRUE"
+			],
+			[
+				"dele",
+				"delete_btn"
+			],
+			[
+				"edit",
+				"edit_btn"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"set_ma",
+				"set_message"
+			],
+			[
+				"parent",
+				"parent_pages"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"sess",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"session",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"loa",
+				"load_helper	CI - Load Helper File"
+			],
+			[
+				"form_validation",
+				"form_validation"
+			],
+			[
+				"librar",
+				"library"
+			],
+			[
+				"a",
+				"archive"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"form_vali",
+				"form_validation"
+			],
+			[
+				"th",
+				"th	PHP - $this or other object use"
+			],
+			[
+				"comm",
+				"comment_content"
+			],
+			[
+				"commen",
+				"comment_email"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"bs3-labe",
+				"bs3-label:default	bs3-label-default"
+			],
+			[
+				"clas",
+				"class=  (attribute)"
+			],
+			[
+				"bs3-pa",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"sessio",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"bs3-col",
+				"bs3-col:5	bs3-col-5"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"password",
+				"password_hash"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"insert",
+				"insert_default_value"
+			],
+			[
+				"db_",
+				"db_insertbatch	CI - Active Record DB Insert Batch"
+			],
+			[
+				"install",
+				"is_installed"
+			],
+			[
+				"C",
+				"CI"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"ci",
+				"CI"
+			],
+			[
+				"migratio",
+				"migration"
+			],
+			[
+				"migra",
+				"migration"
+			],
+			[
+				"form_val",
+				"form_validation"
+			],
+			[
+				"con",
+				"construct	CI - Class Constructor"
+			],
+			[
+				"form_va",
+				"form_validation"
+			],
+			[
+				"admin_password",
+				"admin_password_conf"
+			],
+			[
+				"is_",
+				"is_installed"
+			],
+			[
+				"main",
+				"main_helper"
+			],
+			[
+				"db",
+				"dbutil"
+			],
+			[
+				"ret",
+				"ret1	return true"
+			],
+			[
+				"False",
+				"FALSE"
+			],
+			[
+				"fals",
+				"FALSE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.scss",
+			"settings":
+			{
+				"buffer_size": 550,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Geek/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 533,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"colorsheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"license",
+				"Snippet: my_license"
+			],
+			[
+				"blockr",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"vagrant",
+				"Vagrant: Init"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"emmet tag",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel-info"
+			],
+			[
+				"bs3-panel",
+				"Snippet: bs3-panel-info"
+			],
+			[
+				"rea",
+				"File: Reveal"
+			],
+			[
+				"set c#",
+				"Set Syntax: C#"
+			],
+			[
+				"borwse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packinstall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Geek/Desktop/github-page",
+		"/C/Users/Geek/Desktop/github-page/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Geek/Desktop/github-page/sftp-config.json",
+		"/C/Users/Geek/Desktop/ST3-Plugins/README.md",
+		"/C/Users/Geek/Desktop/github-page/css/style.scss",
+		"/C/Users/Geek/Desktop/github-page/css/style.css",
+		"/C/Users/Geek/Desktop/github-page/index.html",
+		"/C/Users/Geek/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Geek/Desktop/github-page/config.rb",
+		"/C/xampp/htdocs/Lab/3_days_blog/assets/js/ajax.js",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/template/master.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/helpers/text_helper.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/task.todo",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/form_validation.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/libraries/Form_validation.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/template/footer.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/side.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/post_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/dashboard_content.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/dashboard.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/post/add.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/admin/post.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/config.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/admin/dashboard.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/libraries/admin_controller.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/comment_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/core/MY_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/migration.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/admin/user.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/mimes.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/helpers/assets_helper.php",
+		"/C/Users/Geek/Desktop/TODO.TODO",
+		"/C/Users/Geek/Desktop/js_jQuery/js_jQuery.sublime-project",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/admin/comment.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/admin/page.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/admin/tag.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/comment/index.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/page/index.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/post/index.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/tag/index.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/user/index.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/assets/js/bootstrap.min.js",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/user/login.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/page/add.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/page/edit.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/page.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/comment/edit.php",
+		"/C/Users/Geek/vagrant/test/Vagrantfile",
+		"/C/Users/Geek/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/template/header.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/sqlite/sqlite_driver.php",
+		"/C/Users/Geek/Desktop/repos/git-basics/_css/main.css",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/tag_post.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/tag.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/tag_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/blog.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/tag.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/constants.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/pdo/pdo_result.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/postgre/index.html",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/post/edit.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/migrations/001_create_posts.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/postgre/postgre_utility.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/postgre/postgre_result.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/postgre/postgre_forge.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/drivers/postgre/postgre_driver.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/posts.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/post.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/helpers/captcha_helper.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/migrations/002_create_tags.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/tag/add.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/tag/edit.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/install/db/error_connection.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/language/english/date_lang.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/helpers/date_helper.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/archive.php",
+		"/C/Users/Geek/vagrant/test/index.php",
+		"/C/xampp/htdocs/Lab/pdo-test/index.php",
+		"/C/Users/Geek/Desktop/AFnlYI/Vagrantfile",
+		"/C/Users/Geek/Desktop/AFnlYI/puphpet/shell/execute-files.sh",
+		"/C/Users/Geek/Desktop/AFnlYI/puphpet/config.yaml",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/install_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/page_model.php",
+		"/C/Users/Geek/AppData/Local/Temp/Rar$DRa0.444/No-CMS-master/application/controllers/welcome.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/user/add.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/user/edit.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/database.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/user_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/autoload.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/admin/tag",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/libraries/frontend_controller.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/DB_active_rec.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/database/DB_utility.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/helpers/main_helper.php",
+		"/C/xampp/htdocs/test/date.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/install/install.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/install.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/index.html",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/models/blog_pref_model.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/migrations/006_create_comments.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/migrations/007_create_sessions.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/helpers/path_helper.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/core/Common.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/system/language/english/form_validation_lang.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/template/navbar.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/routes.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/rss.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/errors/index.html",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/errors/error_php.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/errors/error_general.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/errors/error_404.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/template/header2.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/rss.php",
+		"/C/xampp/htdocs/script/wordpress/wp-includes/rss.php",
+		"/C/xampp/htdocs/script/wordpress/wp-includes/feed.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/migrate.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/controllers/index.html",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/search.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/archive.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/views/template/archive.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/helpers/index.html",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/errors/error_db.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/doctypes.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/pagination.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/profiler.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/smileys.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/user_agents.php",
+		"/C/xampp/htdocs/Lab/3_days_blog/application/config/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">",
+			"50",
+			"p",
+			"div",
+			"strong",
+			"1",
+			"p",
+			"h3",
+			"/*",
+			"Search",
+			"search",
+			"disabled",
+			"<",
+			"thrownError",
+			"crs",
+			"});",
+			"id",
+			"href",
+			"hasClass",
+			"<?php if ($this->uri->segment(2) == '",
+			"<?php if ",
+			"');\n",
+			"$('.')",
+			"2",
+			"Condensed",
+			"Sans",
+			"comment_id",
+			"post",
+			"Post",
+			"post",
+			"20",
+			"post",
+			"Post",
+			"post",
+			"posts",
+			"string",
+			"\\",
+			"where_in",
+			"anchor",
+			"1",
+			"<?php if",
+			"active",
+			"list-group-item",
+			"post",
+			"tag",
+			"tag_id",
+			"{\n",
+			"|",
+			"title",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"edit",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"User",
+			"user",
+			"delete_btn",
+			"info",
+			"();\n",
+			"            \n",
+			"post",
+			"$this->session->userdata",
+			" class=\"form-control\" ",
+			"value=\"<?php echo set_value('comment_name') ?>\" placeholder=\"Input field\"",
+			"$this->input->post(",
+			"$post",
+			"div",
+			"id/",
+			"'post/id/'",
+			"post",
+			"charset",
+			"p/",
+			" ",
+			"form",
+			"8",
+			"$post",
+			"post",
+			"model",
+			"\n		",
+			"page",
+			"value=",
+			"<div>",
+			"value=",
+			"<div>",
+			"value=",
+			"value",
+			"<div>",
+			"page",
+			"pages",
+			"()));",
+			"$this->session->userdata('user_id')",
+			"type",
+			"''",
+			"comment_post_id",
+			"comment_page_id",
+			"comment_post_id",
+			"post",
+			"<p>",
+			"\"",
+			"href",
+			"user",
+			"h5",
+			"1",
+			"comment",
+			"post",
+			"5",
+			"dashboard_content",
+			"post",
+			"xdebug",
+			"debug",
+			"verify",
+			", PASSWORD_DEFAULT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tabs_extra_last_activated": 1411228219.82,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1411227312.46,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_moving":
+							[
+								2,
+								0
+							],
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1552,
+								1552
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tabs_extra_last_activated": 1411228880.51,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Geek/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tabs_extra_last_activated": 1411226156.59,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 144.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "github-page.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"front",
+				"application\\libraries\\frontend_controller.php"
+			],
+			[
+				"templatefoot",
+				"application\\views\\template\\footer.php"
+			],
+			[
+				"blog",
+				"application\\controllers\\blog.php"
+			],
+			[
+				"valida",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"side",
+				"application\\views\\side.php"
+			],
+			[
+				"search",
+				"application\\views\\search.php"
+			],
+			[
+				"vpost",
+				"application\\views\\post.php"
+			],
+			[
+				"mimes",
+				"application\\config\\mimes.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"adminpost",
+				"application\\controllers\\admin\\post.php"
+			],
+			[
+				"dashboar",
+				"application\\views\\admin\\dashboard.php"
+			],
+			[
+				"postadd",
+				"application\\views\\admin\\post\\add.php"
+			],
+			[
+				"dash",
+				"application\\views\\admin\\dashboard.php"
+			],
+			[
+				"todo",
+				"task.todo"
+			],
+			[
+				"user",
+				"application\\controllers\\admin\\user.php"
+			],
+			[
+				"to",
+				"task.todo"
+			],
+			[
+				"footer",
+				"application\\views\\template\\footer.php"
+			],
+			[
+				"login",
+				"application\\views\\admin\\user\\login.php"
+			],
+			[
+				"foo",
+				"application\\views\\template\\footer.php"
+			],
+			[
+				"heade",
+				"application\\views\\template\\header.php"
+			],
+			[
+				"vdsh",
+				"application\\views\\admin\\dashboard.php"
+			],
+			[
+				"vdash",
+				"application\\views\\admin\\dashboard.php"
+			],
+			[
+				"dashboard",
+				"application\\controllers\\admin\\dashboard.php"
+			],
+			[
+				"dshcont",
+				"application\\views\\admin\\dashboard_content.php"
+			],
+			[
+				"cominde",
+				"application\\views\\admin\\comment\\index.php"
+			],
+			[
+				"mymode",
+				"application\\core\\MY_model.php"
+			],
+			[
+				"pomode",
+				"application\\models\\post_model.php"
+			],
+			[
+				"form_va",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"my_model",
+				"application\\core\\MY_model.php"
+			],
+			[
+				"comme",
+				"application\\models\\comment_model.php"
+			],
+			[
+				"capost",
+				"application\\controllers\\admin\\post.php"
+			],
+			[
+				"catg",
+				"application\\controllers\\admin\\tag.php"
+			],
+			[
+				"viewtag",
+				"application\\views\\tag_post.php"
+			],
+			[
+				"vtag",
+				"application\\views\\tag.php"
+			],
+			[
+				"vpoinde",
+				"application\\views\\admin\\post\\index.php"
+			],
+			[
+				"tmode",
+				"application\\models\\tag_model.php"
+			],
+			[
+				"ctag",
+				"application\\controllers\\admin\\tag.php"
+			],
+			[
+				"vtaginde",
+				"application\\views\\admin\\tag\\index.php"
+			],
+			[
+				"post_model",
+				"application\\models\\post_model.php"
+			],
+			[
+				"tmod",
+				"application\\models\\tag_model.php"
+			],
+			[
+				"acpost",
+				"application\\controllers\\admin\\post.php"
+			],
+			[
+				"atag",
+				"application\\controllers\\admin\\tag.php"
+			],
+			[
+				"tag",
+				"application\\controllers\\tag.php"
+			],
+			[
+				"dashconte",
+				"application\\views\\admin\\dashboard_content.php"
+			],
+			[
+				"vpad",
+				"application\\views\\admin\\post\\add.php"
+			],
+			[
+				"vpots",
+				"application\\views\\posts.php"
+			],
+			[
+				"admin",
+				"application\\libraries\\admin_controller.php"
+			],
+			[
+				"autolo",
+				"application\\config\\autoload.php"
+			],
+			[
+				"fova",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"tagmo",
+				"application\\models\\tag_model.php"
+			],
+			[
+				"userindex",
+				"application\\views\\admin\\user\\index.php"
+			],
+			[
+				"usermode",
+				"application\\models\\user_model.php"
+			],
+			[
+				"causer",
+				"application\\controllers\\admin\\user.php"
+			],
+			[
+				"database",
+				"application\\config\\database.php"
+			],
+			[
+				"mymodel",
+				"application\\core\\MY_model.php"
+			],
+			[
+				"tmodel",
+				"application\\models\\tag_model.php"
+			],
+			[
+				"main",
+				"application\\helpers\\main_helper.php"
+			],
+			[
+				"postinde",
+				"application\\views\\admin\\post\\index.php"
+			],
+			[
+				"postad",
+				"application\\views\\admin\\post\\add.php"
+			],
+			[
+				"pomo",
+				"application\\models\\post_model.php"
+			],
+			[
+				"cpost",
+				"application\\controllers\\admin\\post.php"
+			],
+			[
+				"font",
+				"application\\libraries\\frontend_controller.php"
+			],
+			[
+				"migartion",
+				"application\\config\\migration.php"
+			],
+			[
+				"usermodel",
+				"application\\models\\user_model.php"
+			],
+			[
+				"validation",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"page_model",
+				"application\\models\\page_model.php"
+			],
+			[
+				"vpageed",
+				"application\\views\\admin\\page\\edit.php"
+			],
+			[
+				"aapage",
+				"application\\controllers\\admin\\page.php"
+			],
+			[
+				"apage",
+				"application\\controllers\\page.php"
+			],
+			[
+				"comment",
+				"application\\models\\comment_model.php"
+			],
+			[
+				"vpo",
+				"application\\views\\post.php"
+			],
+			[
+				"vlo",
+				"application\\views\\admin\\user\\login.php"
+			],
+			[
+				"route",
+				"application\\config\\routes.php"
+			],
+			[
+				"ass",
+				"application\\helpers\\assets_helper.php"
+			],
+			[
+				"header",
+				"application\\views\\template\\header.php"
+			],
+			[
+				"tag_post",
+				"application\\views\\tag_post.php"
+			],
+			[
+				"rss",
+				"application\\views\\rss.php"
+			],
+			[
+				"navb",
+				"application\\views\\template\\navbar.php"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"sear",
+				"application\\views\\search.php"
+			],
+			[
+				"master",
+				"application\\views\\template\\master.php"
+			],
+			[
+				"auto",
+				"application\\config\\autoload.php"
+			],
+			[
+				"vpage",
+				"application\\views\\admin\\page\\index.php"
+			],
+			[
+				"vuser",
+				"application\\views\\admin\\user\\index.php"
+			],
+			[
+				"cpage",
+				"application\\controllers\\page.php"
+			],
+			[
+				"vadui",
+				"application\\views\\admin\\user\\index.php"
+			],
+			[
+				"vapain",
+				"application\\views\\admin\\page\\index.php"
+			],
+			[
+				"page",
+				"application\\controllers\\page.php"
+			],
+			[
+				"formva",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"post",
+				"application\\models\\post_model.php"
+			],
+			[
+				"blg",
+				"application\\controllers\\blog.php"
+			],
+			[
+				"cdash",
+				"application\\controllers\\admin\\dashboard.php"
+			],
+			[
+				"vedit",
+				"application\\views\\admin\\user\\edit.php"
+			],
+			[
+				"cuser",
+				"application\\controllers\\admin\\user.php"
+			],
+			[
+				"form",
+				"system\\libraries\\Form_validation.php"
+			],
+			[
+				"useradd",
+				"application\\views\\admin\\user\\add.php"
+			],
+			[
+				"user/edit",
+				"application\\views\\admin\\user\\edit.php"
+			],
+			[
+				"postmo",
+				"application\\models\\post_model.php"
+			],
+			[
+				"sid",
+				"application\\views\\side.php"
+			],
+			[
+				"post_",
+				"application\\models\\post_model.php"
+			],
+			[
+				"archive",
+				"application\\controllers\\archive.php"
+			],
+			[
+				"install",
+				"application\\models\\install_model.php"
+			],
+			[
+				"cintal",
+				"application\\controllers\\install.php"
+			],
+			[
+				"cin",
+				"application\\cache\\index.html"
+			],
+			[
+				"instal_mo",
+				"application\\models\\install_model.php"
+			],
+			[
+				"pagination",
+				"application\\config\\pagination.php"
+			],
+			[
+				"cform",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"migrato",
+				"application\\config\\migration.php"
+			],
+			[
+				"00",
+				"application\\migrations\\001_create_posts.php"
+			],
+			[
+				"my_",
+				"application\\core\\MY_Controller.php"
+			],
+			[
+				"uer_model",
+				"application\\models\\user_model.php"
+			],
+			[
+				"post_mo",
+				"application\\models\\post_model.php"
+			],
+			[
+				"admi",
+				"application\\libraries\\admin_controller.php"
+			],
+			[
+				"vali",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"vins",
+				"application\\views\\install\\install.php"
+			],
+			[
+				"my_co",
+				"application\\core\\MY_Controller.php"
+			],
+			[
+				"pass",
+				"application\\libraries\\Password_library.php"
+			],
+			[
+				"my",
+				"application\\core\\MY_model.php"
+			],
+			[
+				"mu_model",
+				"application\\models\\user_model.php"
+			],
+			[
+				"autoload",
+				"application\\config\\autoload.php"
+			],
+			[
+				"hedaer",
+				"application\\views\\template\\header.php"
+			],
+			[
+				"db_dri",
+				"system\\database\\DB_driver.php"
+			],
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"pas",
+				"application\\libraries\\password_library.php"
+			],
+			[
+				"password",
+				"application\\libraries\\password_library.php"
+			],
+			[
+				"form_valida",
+				"application\\config\\form_validation.php"
+			],
+			[
+				"00po",
+				"application\\migrations\\001_create_posts.php"
+			],
+			[
+				"pos_",
+				"application\\models\\post_model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Geek\\Desktop\\js_jQuery\\js_jQuery.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"21":
+				{
+					"group": 0,
+					"index": 6
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

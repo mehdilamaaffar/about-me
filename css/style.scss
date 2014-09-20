@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400italic);
+
+// @import 'compass/reset';
+
+.wrapper {
+	width: 70%;
+	margin: 0 auto 0 auto;
+}
+
+body {
+	font-size: 20px;
+	color: #858585;
+}
+
+p {
+	padding-bottom: 10px;
+}
+
+header {
+	p {
+		font-size: 30px;
+		color: #555;
+	}
+}
+
+.head_name {
+	text-align: center;
+}
+
+.my_name {
+	font-style: italic;
+	font-size: 23px;
+	color: #0080FF;
+	text-align: center;
+}
+
+.my_image {
+	img {
+		border-radius: 50%;
+		box-shadow: 0 0 10px 3px #555;
+	}
+	text-align: center;
+}
+
+a {
+	color: #FF8080;
+	font-style: italic;
+}
